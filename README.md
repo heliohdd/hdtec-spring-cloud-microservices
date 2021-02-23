@@ -3,7 +3,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/heliohdd/hdsdeliver-sds2/blob/main/LICENSE) 
 
 ## About the Project
-Este projeto é uma solução baseada na arquitetura de microsserviços.
+Projeto baseado na arquitetura de microsserviços em fase de desenvolvimento.
 
 Os principais Cloud Components são: Spring Cloud Config Server, Eureka Naming and Discovery Server, Zuul API Gateway, Spring API Gateway e Zipkin Distributed Tracing.
 A parte de microsserviços é composta por: Property Access Service, Product Stock Service, Product Enquiry Service.
