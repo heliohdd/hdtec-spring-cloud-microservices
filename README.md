@@ -64,7 +64,7 @@ Pré-requisito:
 - [Java 11](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html)
 ## Back end
 -->
-**Clonar o repositório**
+**Clonar o repositório (para conferir o estágio atual)**
 
 ```
 $ git clone https://github.com/heliohdd/hdtec-spring-cloud-microservices
